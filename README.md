@@ -1,2 +1,4 @@
 # googleClon
-Curso Platzi Diego De Granda Google Clon 
+Pertenece a Curso Platzi Diego De Granda Google Clon 
+
+@degranda  :cat:
